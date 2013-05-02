@@ -2,9 +2,9 @@ StartChar: uni25B6
 Encoding: 9654 9654 1
 Width: 600
 SplineSet
-600 369.999913 m 1
- -5e-06 23.589933 l 1
- 2.3e-05 716.410073 l 1
- 600 369.999913 l 1
+600 370 m 1
+ 0 24 l 1
+ 0 716 l 1
+ 600 370 l 1
 EndSplineSet
 EndChar
