@@ -1,0 +1,18 @@
+StartChar: logicalnot
+Encoding: 172 172 154
+Width: 600
+Flags: HMW
+TeX: 108 0
+LayerCount: 2
+Fore
+SplineSet
+116 402 m 0
+ 490 402 l 0
+ 490 182 l 0
+ 416 182 l 0
+ 416 329 l 0
+ 116 329 l 0
+ 116 402 l 0
+EndSplineSet
+Validated: 1
+EndChar

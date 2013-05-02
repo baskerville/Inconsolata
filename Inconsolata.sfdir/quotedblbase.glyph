@@ -1,0 +1,10 @@
+StartChar: quotedblbase
+Encoding: 336 8222 263
+Width: 600
+Flags: HMW
+LayerCount: 2
+Fore
+Refer: 56 8217 N 1 0 0 1 120 -620 2
+Refer: 56 8217 N 1 0 0 1 -120 -620 2
+Validated: 1
+EndChar

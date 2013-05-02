@@ -1,0 +1,15 @@
+StartChar: dotaccent
+Encoding: 265 729 222
+Width: 600
+Flags: HMW
+TeX: 78 0
+LayerCount: 2
+Fore
+SplineSet
+305 760 m 0
+ 338 760 365 733 365 700 c 0
+ 365 668 338 641 305 641 c 0
+ 272 641 245 668 245 700 c 0
+ 245 733 272 760 305 760 c 0
+EndSplineSet
+EndChar

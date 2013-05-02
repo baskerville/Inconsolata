@@ -1,0 +1,26 @@
+StartChar: guillemotright
+Encoding: 187 187 153
+Width: 600
+Flags: HMW
+TeX: 103 0
+LayerCount: 2
+Fore
+SplineSet
+317 293 m 0
+ 317 266 l 0
+ 134 71 l 0
+ 88 117 l 0
+ 236 279 l 0
+ 96 416 l 0
+ 141 464 l 0
+ 317 293 l 0
+527 293 m 0
+ 527 266 l 0
+ 344 71 l 0
+ 298 117 l 0
+ 446 279 l 0
+ 306 416 l 0
+ 351 464 l 0
+ 527 293 l 0
+EndSplineSet
+EndChar

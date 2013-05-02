@@ -1,0 +1,22 @@
+StartChar: l
+Encoding: 108 108 7
+Width: 600
+Flags: HMW
+TeX: 108 0
+LayerCount: 2
+Fore
+SplineSet
+108 770 m 0
+ 342 770 l 0
+ 342 67 l 0
+ 498 67 l 0
+ 498 0 l 0
+ 101 0 l 0
+ 101 67 l 0
+ 258 67 l 0
+ 258 703 l 0
+ 108 703 l 0
+ 108 770 l 0
+EndSplineSet
+Validated: 1
+EndChar

@@ -1,0 +1,19 @@
+StartChar: uni00B9
+Encoding: 185 185 149
+Width: 600
+Flags: HMW
+TeX: 117 0
+LayerCount: 2
+Fore
+SplineSet
+356 733 m 0
+ 356 293 l 0
+ 282 293 l 0
+ 282 641 l 0
+ 170 612 l 0
+ 151 648 l 0
+ 306 733 l 0
+ 356 733 l 0
+EndSplineSet
+Validated: 1
+EndChar

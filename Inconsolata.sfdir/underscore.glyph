@@ -1,0 +1,16 @@
+StartChar: underscore
+Encoding: 95 95 31
+Width: 600
+Flags: HMW
+TeX: 117 0
+LayerCount: 2
+Fore
+SplineSet
+50 -22 m 25
+ 550 -22 l 25
+ 550 -93 l 25
+ 50 -93 l 25
+ 50 -22 l 25
+EndSplineSet
+Validated: 1
+EndChar

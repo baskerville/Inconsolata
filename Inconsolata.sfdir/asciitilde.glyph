@@ -1,0 +1,19 @@
+StartChar: asciitilde
+Encoding: 126 126 89
+Width: 600
+Flags: HMW
+TeX: 97 0
+LayerCount: 2
+Fore
+SplineSet
+116 396 m 0
+ 58 434 l 0
+ 92 492 151 538 217 538 c 0
+ 313 538 343 451 409 451 c 0
+ 447 451 475 481 508 526 c 0
+ 561 482 l 0
+ 531 436 473 375 401 375 c 0
+ 307 375 283 468 212 468 c 0
+ 179 468 145 444 116 396 c 0
+EndSplineSet
+EndChar

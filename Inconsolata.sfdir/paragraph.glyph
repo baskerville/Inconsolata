@@ -1,0 +1,23 @@
+StartChar: paragraph
+Encoding: 182 182 145
+Width: 600
+Flags: HMW
+TeX: 112 0
+LayerCount: 2
+Fore
+SplineSet
+515 770 m 0
+ 515 -79 l 0
+ 448 -79 l 0
+ 448 705 l 0
+ 360 705 l 0
+ 360 -79 l 0
+ 291 -79 l 0
+ 291 373 l 0
+ 174 373 84 470 84 575 c 0
+ 84 646 126 713 203 747 c 0
+ 254.692 769.154 307.237 770.006 357.487 770.006 c 0
+ 370 770 l 0
+ 515 770 l 0
+EndSplineSet
+EndChar

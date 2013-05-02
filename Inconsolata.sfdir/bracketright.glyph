@@ -1,0 +1,19 @@
+StartChar: bracketright
+Encoding: 93 93 75
+Width: 600
+Flags: HMW
+TeX: 98 0
+LayerCount: 2
+Fore
+SplineSet
+438 776 m 0
+ 438 -103 l 0
+ 106 -103 l 0
+ 106 -37 l 0
+ 364 -37 l 0
+ 364 707 l 0
+ 107 707 l 0
+ 107 776 l 0
+ 438 776 l 0
+EndSplineSet
+EndChar

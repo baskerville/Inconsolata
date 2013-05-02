@@ -1,0 +1,19 @@
+StartChar: circumflex.cap
+Encoding: 275 -1 190
+Width: 600
+Flags: HMW
+TeX: 78 0
+LayerCount: 2
+Fore
+SplineSet
+142 659 m 0
+ 294 774 l 0
+ 319 774 l 0
+ 462 661 l 0
+ 424 617 l 0
+ 304 699 l 0
+ 175 620 l 0
+ 142 659 l 0
+EndSplineSet
+Validated: 1
+EndChar

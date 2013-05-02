@@ -1,0 +1,15 @@
+StartChar: uni02CB
+Encoding: 259 715 130
+Width: 600
+Flags: HMW
+TeX: 78 0
+LayerCount: 2
+Fore
+SplineSet
+292 810 m 0
+ 394 640 l 0
+ 336 605 l 0
+ 219 761 l 0
+ 292 810 l 0
+EndSplineSet
+EndChar

@@ -1,0 +1,11 @@
+StartChar: onequarter
+Encoding: 282 188 272
+Width: 600
+Flags: HMW
+LayerCount: 2
+Fore
+Refer: 274 8260 N 1 0 0 1 0 0 2
+Refer: 271 8308 N 0.8 0 0 0.8 178.6 -314.5 2
+Refer: 149 185 N 0.8 0 0 0.8 -107.4 198.6 2
+Validated: 1
+EndChar

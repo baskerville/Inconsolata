@@ -1,0 +1,10 @@
+StartChar: Acircumflex
+Encoding: 194 194 165
+Width: 600
+Flags: HMW
+TeX: 65 0
+LayerCount: 2
+Fore
+Refer: 190 -1 N 1 0 0 1 -14 143 2
+Refer: 71 65 N 1 0 0 1 0 0 2
+EndChar

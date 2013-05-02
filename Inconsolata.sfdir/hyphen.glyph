@@ -1,0 +1,16 @@
+StartChar: hyphen
+Encoding: 45 45 60
+Width: 600
+Flags: HMW
+TeX: 104 0
+LayerCount: 2
+Fore
+SplineSet
+92 403 m 0
+ 509 403 l 0
+ 509 326 l 0
+ 92 326 l 0
+ 92 403 l 0
+EndSplineSet
+Validated: 1
+EndChar

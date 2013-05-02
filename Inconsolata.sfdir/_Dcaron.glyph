@@ -1,0 +1,10 @@
+StartChar: Dcaron
+Encoding: 300 270 230
+Width: 600
+Flags: HMW
+TeX: 78 0
+LayerCount: 2
+Fore
+Refer: 191 -1 N 1 0 0 1 -22 143 2
+Refer: 79 68 N 1 0 0 1 0 0 2
+EndChar

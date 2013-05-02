@@ -1,0 +1,16 @@
+StartChar: backslash
+Encoding: 92 92 37
+Width: 600
+Flags: HMW
+TeX: 98 0
+LayerCount: 2
+Fore
+SplineSet
+516 -15 m 25
+ 448 -49 l 25
+ 84 735 l 25
+ 153 770 l 25
+ 516 -15 l 25
+EndSplineSet
+Validated: 1
+EndChar

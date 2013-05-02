@@ -1,0 +1,10 @@
+StartChar: Ncaron
+Encoding: 303 327 233
+Width: 600
+Flags: HMW
+TeX: 78 0
+LayerCount: 2
+Fore
+Refer: 191 -1 N 1 0 0 1 8 143 2
+Refer: 46 78 N 1 0 0 1 0 0 2
+EndChar

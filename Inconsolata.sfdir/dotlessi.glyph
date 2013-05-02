@@ -1,0 +1,21 @@
+StartChar: dotlessi
+Encoding: 272 305 136
+Width: 600
+Flags: HMW
+TeX: 78 0
+LayerCount: 2
+Fore
+SplineSet
+133 529 m 0
+ 345 529 l 0
+ 345 67 l 0
+ 469 67 l 0
+ 469 0 l 0
+ 126 0 l 0
+ 126 67 l 0
+ 261 67 l 0
+ 261 462 l 0
+ 133 462 l 0
+ 133 529 l 0
+EndSplineSet
+EndChar

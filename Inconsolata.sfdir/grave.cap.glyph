@@ -1,0 +1,15 @@
+StartChar: grave.cap
+Encoding: 277 -1 195
+Width: 600
+Flags: HMW
+TeX: 78 0
+LayerCount: 2
+Fore
+SplineSet
+250 779 m 0
+ 427 675 l 0
+ 400 627 l 0
+ 204 698 l 0
+ 250 779 l 0
+EndSplineSet
+EndChar

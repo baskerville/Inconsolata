@@ -1,0 +1,16 @@
+StartChar: acute
+Encoding: 260 180 107
+Width: 600
+Flags: HMW
+TeX: 78 0
+LayerCount: 2
+Fore
+SplineSet
+348 810 m 0
+ 421 761 l 0
+ 304 605 l 0
+ 246 640 l 0
+ 348 810 l 0
+EndSplineSet
+Validated: 1
+EndChar

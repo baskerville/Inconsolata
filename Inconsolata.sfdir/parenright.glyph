@@ -1,0 +1,18 @@
+StartChar: parenright
+Encoding: 41 41 77
+Width: 600
+Flags: HMW
+TeX: 112 0
+LayerCount: 2
+Fore
+SplineSet
+100 699 m 0
+ 122 771 l 0
+ 310.266 684.352 432 496.633 432 290.289 c 0
+ 432 82.1043 308.169 -110.384 116 -202 c 0
+ 94 -132 l 0
+ 250.594 -49.1168 350.028 112.597 350.028 286.978 c 0
+ 350.028 458.955 253.152 617.58 100 699 c 0
+EndSplineSet
+Validated: 1
+EndChar

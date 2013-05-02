@@ -1,0 +1,10 @@
+StartChar: Igrave
+Encoding: 204 204 172
+Width: 600
+Flags: HMW
+TeX: 73 0
+LayerCount: 2
+Fore
+Refer: 195 -1 N 1 0 0 1 -30 138 2
+Refer: 4 73 N 1 0 0 1 0 0 2
+EndChar

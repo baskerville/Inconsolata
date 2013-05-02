@@ -1,0 +1,20 @@
+StartChar: hungarumlaut.cap
+Encoding: 343 -1 270
+Width: 600
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+486 939 m 0
+ 540 864 l 0
+ 371 747 l 0
+ 334 795 l 0
+ 486 939 l 0
+280 939 m 0
+ 334 864 l 0
+ 165 747 l 0
+ 128 795 l 0
+ 280 939 l 0
+EndSplineSet
+Validated: 1
+EndChar

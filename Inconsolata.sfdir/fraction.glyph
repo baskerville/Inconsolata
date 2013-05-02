@@ -1,0 +1,15 @@
+StartChar: fraction
+Encoding: 345 8260 274
+Width: 600
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+98 -19 m 25
+ 461 770 l 25
+ 516 739 l 25
+ 152 -49 l 25
+ 98 -19 l 25
+EndSplineSet
+Validated: 1
+EndChar

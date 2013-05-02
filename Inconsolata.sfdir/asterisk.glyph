@@ -1,0 +1,28 @@
+StartChar: asterisk
+Encoding: 42 42 41
+Width: 600
+Flags: HMW
+TeX: 97 0
+LayerCount: 2
+Fore
+SplineSet
+257 601 m 0
+ 351 601 l 0
+ 349 587 345 584 344 570 c 0
+ 326 396 l 0
+ 510 480 l 0
+ 541 409 l 0
+ 342 349 l 0
+ 488 174 l 0
+ 425 124 l 0
+ 300 316 l 0
+ 170 123 l 0
+ 107 174 l 0
+ 258 348 l 0
+ 58 409 l 0
+ 88 484 l 0
+ 275 396 l 0
+ 257 601 l 0
+EndSplineSet
+Validated: 1
+EndChar
