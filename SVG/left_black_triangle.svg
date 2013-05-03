@@ -14,7 +14,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="right_black_triangle.svg">
+   sodipodi:docname="left_black_triangle.svg">
   <title
      id="title2983">uni25C0</title>
   <defs
@@ -77,9 +77,10 @@
     <path
        style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
        inkscape:transform-center-y="-4.4999132e-05"
-       d="M -5e-6,502.36227 600,848.77225 l -3e-5,-692.82014 z"
+       d="M 599.99997,155.95211 600,848.77225 -5e-6,502.36227 z"
        id="path2989"
        inkscape:connector-curvature="0"
-       inkscape:transform-center-x="99.999999" />
+       inkscape:transform-center-x="99.999999"
+       sodipodi:nodetypes="cccc" />
   </g>
 </svg>
